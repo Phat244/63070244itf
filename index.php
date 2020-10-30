@@ -4,18 +4,20 @@
         <meta charset="UTF-8">
     </head>
     <body>
-        <h1>My First Heading</h1>
-        <p>My First Paragraph</p>
-        <img src="cat.jpg"/>
+        <h1>Name : Suphitsara Lerdworajakkrapong</h1>
+        <p>ชื่อ-นามสกุล : ศุภิสรา เลิศวรจักรพงษ์</p>
+        <p>nickname : พรรษ</p>
+        <img src="cat2.jpg"/>
+        <img src="itf-cat.jpg"/>
+        <img src="small.jpg"/>
         <br>
-        <a href="http://www.it.kmitl.ac.th">This is a Link</a>
+        <a href="https://www.youtube.com/?app=desktop">This is a Link</a>
 
-        <h2>The unordered list</h2>
-        <ul>
-            <li>Google</li>
-            <li>Yahoo</li>
-            <li>Amazon</li>
-        </ul>
-
+        <h2>Joke Story</h2>
+        <p>พรรษา : ฉันลงทุนได้เงินมาว่าจะไปเปิดบัญชีธนาคารสักหน่อย นายพอจะแนะนำบ้างได้ไหม พิพงศ์<br>
+            พิพงศ์ : โอย ฉันแนะนำไม่ได้หรอก<br>
+            พรรษา : อ้าว แล้วโดยปรกติ นายเก็บเงินไว้ที่ไหนล่ะ ธนาคาร? บ้าน? หุ้น?<br>
+            พิพงศ์ : ฉันเก็บไว้ในความทรงจำ<br>
+            พรรษา : !!
     </body>
 </html>
