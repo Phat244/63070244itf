@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Hello worl</title>
+        <title>Hello i am Phat</title>
         <meta charset="UTF-8">
     </head>
     <body>
